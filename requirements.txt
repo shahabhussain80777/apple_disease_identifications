@@ -1,3 +1,5 @@
+torchtorch
+torchvision
 streamlit
 tensorflow
 numpy
