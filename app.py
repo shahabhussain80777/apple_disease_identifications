@@ -4,6 +4,7 @@ import numpy as np
 from PIL import Image
 from transformers import AutoImageProcessor, AutoModelForImageClassification
 
+
 st.title("Apple Leaf Disease Detection")
 st.write("Upload an apple leaf image to detect its disease using your Hugging Face DINOv2 model.")
 
