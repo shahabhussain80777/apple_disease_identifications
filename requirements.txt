@@ -1,4 +1,4 @@
-torchtorch
+torch
 torchvision
 streamlit
 tensorflow
